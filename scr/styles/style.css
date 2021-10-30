@@ -1,0 +1,23 @@
+body{
+    font-family: "Arial";
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    color: blueviolet;
+}
+
+a{
+    background-color: blueviolet;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 5px 30px 5px 30px;
+}
